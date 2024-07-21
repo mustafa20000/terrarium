@@ -36,7 +36,7 @@ body{
 
 .plant{
     position: absolute;
-    max-width: 150%;
+    max-width: 150% ;
     max-height: 150%;
     z-index: 2;
 }
